@@ -1,2 +1,2 @@
-# ObserverModel
-Design pattern of the observer model
+# ObserverPattern
+Design pattern of the Observer Pattern
